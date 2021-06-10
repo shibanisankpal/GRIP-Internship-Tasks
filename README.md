@@ -1,5 +1,5 @@
 # GRIP-Internship-Tasks
-Prediction using Supervised ML
+##Prediction using Supervised ML
 
 ● Predict the percentage of an student based on the no. of study hours.
 
@@ -10,13 +10,13 @@ Prediction using Supervised ML
 
 
 
-Prediction using Unsupervised ML
+## Prediction using Unsupervised ML
 
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 
-Prediction using Decision Tree Algorithm
+## Prediction using Decision Tree Algorithm
 
 Create the Decision Tree classifier and visualize it graphically.
 
@@ -25,10 +25,11 @@ predict the right class accordingly.
 
 ● Dataset : https://bit.ly/3kXTdox
 
-Exploratory Data Analyis-Retail(Dataset: https://bit.ly/3i4rbWl)
+## Exploratory Data Analyis-Retail
+● Dataset: https://bit.ly/3i4rbWl)
 
 
-Exploratory Data Analysis-Terrorism
+## Exploratory Data Analysis-Terrorism
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
