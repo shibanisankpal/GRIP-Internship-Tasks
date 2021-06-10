@@ -26,7 +26,7 @@ predict the right class accordingly.
 ● Dataset : https://bit.ly/3kXTdox
 
 ## Exploratory Data Analyis-Retail
-● Dataset: https://bit.ly/3i4rbWl)
+● Dataset: https://bit.ly/3i4rbWl
 
 
 ## Exploratory Data Analysis-Terrorism
